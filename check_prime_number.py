@@ -1,6 +1,6 @@
 #python program to check prime number
 
-
+#take input from user
 number = int(input("Enter the number : "))
 
 if number > 1 :
